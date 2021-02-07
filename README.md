@@ -1,4 +1,4 @@
-# How to start & examples
+# GRPC chatroom 
 
 * functions have been implemented:
 1) Specify address of server being connected to.
@@ -13,6 +13,8 @@
 
 * have not been implmented yet
 1) Write Integration Tests
+
+# How to start & examples
 
 ## Prerequisite
 build server and clint
